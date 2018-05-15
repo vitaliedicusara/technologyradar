@@ -1,0 +1,26 @@
+﻿name,ring,quadrant,isNew,description
+Prometheus,adopt,tools,FALSE,This is the description.
+Grafana,adopt,tools,TRUE,This is the description.
+Serverless Framework,trial,tools,FALSE,This is the description.
+Spinnaker,assess,tools,TRUE,This is the description.
+GoLang,adopt,languages & frameworks,FALSE,This is the description.
+Python 3,adopt,languages & frameworks,FALSE,This is the description.
+NodeJS,adopt,languages & frameworks,FALSE,This is the description.
+Angular,trial,languages & frameworks,FALSE,This is the description.
+Avro,trial,languages & frameworks,FALSE,This is the description.
+Solidity,assess,languages & frameworks,FALSE,This is the description.
+Truffle,assess,languages & frameworks,TRUE,This is the description.
+Kubernetes,adopt,platforms,FALSE,This is the description.
+OpenTracing,adopt,platforms,FALSE,This is the description.
+Google Cloud Platform,trial,platforms,FALSE,This is the description.
+Kafka Streams,trial,platforms,TRUE,This is the description.
+Corda,assess,platforms,FALSE,This is the description.
+Hyperledger,assess,platforms,FALSE,This is the description.
+GKE,assess,platforms,FALSE,This is the description.
+Design Thinking,adopt,techniques,FALSE,This is the description.
+Lightweight Architecture Decision Records,adopt,techniques,TRUE,This is the description.
+Serverless Architecture,trial,techniques,TRUE,This is the description.
+Decoupling secret management from source code,trial,techniques,FALSE,This is the description.
+Micro frontends,trial,techniques,FALSE,This is the description.
+Pipelines for infrastructure as code,trial,techniques,FALSE,This is the description.
+Applying product management to internal platforms,trial,techniques,FALSE,"Means establishing empathy with internal consumers (read: developers) and collaborating with them on the design. Platform product managers establish roadmaps and ensure the platform delivers value to the business and enhances the developer experience. Some owners even create a brand identity for the internal platform and use that to market the benefits to their colleagues. Platform product managers look after the quality of the platform, gather usage metrics, and continuously improve it over time. Treating the platform as a product helps to create a thriving ecosystem and avoids the pitfall of building yet another stagnant, underutilized service-oriented architecture."
